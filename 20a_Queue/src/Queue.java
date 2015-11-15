@@ -1,32 +1,32 @@
 ﻿import java.util.ArrayList;
 
 class Queue {
-	private ArrayList cola = new ArrayList();
+	private ArrayList<Order> _queue = new ArrayList<Order>();
 
 	public void add(Order p) {
-		this.cola.add(p);
+		this._queue.add(p);
 	}
 
-	public Order GetPrimerPedido() {
-		if (this.cola.size() == 0)
+	public Order getFirstOrder() {
+		if (this._queue.size() == 0)
 			return null;
-		return (Order) this.cola.get(0);
+		return (Order) this._queue.get(0);
 	}
 
-	public Order Siguiente() // Desencolar()
+	public Order next()
 	{
-		if (this.cola.size() == 0)
+		if (this._queue.size() == 0)
 			return null;
-		Order pedido = GetPrimerPedido();
-		this.cola.remove(pedido);
-		return pedido;
+		Order order = getFirstOrder();
+		this._queue.remove(order);
+		return order;
 	}
 
 	public int getLength() {
-		return this.cola.size();
+		return this._queue.size();
 	}
 
-	public boolean getEstaVacia() {
-		return (this.cola.size() == 0);
+	public boolean isEmpty() {
+		return (this._queue.size() == 0);
 	}
 }

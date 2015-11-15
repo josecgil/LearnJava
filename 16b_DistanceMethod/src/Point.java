@@ -21,7 +21,8 @@ public class Point {
 		int ay = y;
 		int bx = aPoint.getX();
 		int by = aPoint.getY();
-		return Math.sqrt(Math.pow(bx-ax,2)+Math.pow(by-ay, 2));
+		double distance = Math.sqrt(Math.pow(bx-ax,2)+Math.pow(by-ay, 2));
+		return distance;
 	}
 
 	

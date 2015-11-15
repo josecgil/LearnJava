@@ -1,0 +1,634 @@
+!SESSION 2015-11-09 19:40:47.860 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/user/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/user/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2015-11-09 19:41:02.805
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-09 19:41:04.858
+!MESSAGE Beans loaded: [org.springframework.context.annotation.internalConfigurationAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.springframework.context.annotation.internalCommonAnnotationProcessor, infinitestConfig, org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor, resultCollectorBean, coreLifecycleObserver, classFileChangeProcessor, cleanEventProcessor, coreUpdateNotifier, saveDetector, failureMediator, infinitestActivationController, markerClearingRunnable, markerClearingObserver, markerPlacer, problemMarkerRegistry, resourceLookupAdapter, slowMarkerRegistry, preferenceChangeHandler, slowTestObserver, swtEventQueue, testResultAggregator, visualStatusPresenter, coreFactory, eclipseWorkspace, infinitestCoreRegistry, javaProjectSet, workspaceResourceFinder, workspace, sourceContainer]
+!SESSION 2015-11-13 07:57:38.386 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/user/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data /Users/user/Desktop/BTS/LearnJava -product org.eclipse.epp.package.jee.product -keyring /Users/user/.eclipse_keyring -showlocation
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 07:57:59.008
+!MESSAGE Beans loaded: [org.springframework.context.annotation.internalConfigurationAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.springframework.context.annotation.internalCommonAnnotationProcessor, infinitestConfig, org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor, resultCollectorBean, coreLifecycleObserver, classFileChangeProcessor, cleanEventProcessor, coreUpdateNotifier, saveDetector, failureMediator, infinitestActivationController, markerClearingRunnable, markerClearingObserver, markerPlacer, problemMarkerRegistry, resourceLookupAdapter, slowMarkerRegistry, preferenceChangeHandler, slowTestObserver, swtEventQueue, testResultAggregator, visualStatusPresenter, coreFactory, eclipseWorkspace, infinitestCoreRegistry, javaProjectSet, workspaceResourceFinder, workspace, sourceContainer]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.116
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/01_HelloWorld/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.252
+!MESSAGE Reloading core 01_HelloWorld
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.263
+!MESSAGE Added core 01_HelloWorld with classpath /Users/user/Desktop/BTS/LearnJava/01_HelloWorld/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.265
+!MESSAGE 01_HelloWorld Files changed: [/Users/user/Desktop/BTS/LearnJava/01_HelloWorld/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.554
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/02_Variables_Types/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.555
+!MESSAGE Reloading core 02_Variables_Types
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.556
+!MESSAGE Added core 02_Variables_Types with classpath /Users/user/Desktop/BTS/LearnJava/02_Variables_Types/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.559
+!MESSAGE 02_Variables_Types Files changed: [/Users/user/Desktop/BTS/LearnJava/02_Variables_Types/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.579
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/03_Conversions_Operators/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.580
+!MESSAGE Reloading core 03_Conversions_Operators
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.580
+!MESSAGE Added core 03_Conversions_Operators with classpath /Users/user/Desktop/BTS/LearnJava/03_Conversions_Operators/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.581
+!MESSAGE 03_Conversions_Operators Files changed: [/Users/user/Desktop/BTS/LearnJava/03_Conversions_Operators/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.607
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/04_Operators/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.608
+!MESSAGE Reloading core 04_Operators
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.610
+!MESSAGE Added core 04_Operators with classpath /Users/user/Desktop/BTS/LearnJava/04_Operators/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.633
+!MESSAGE 04_Operators Files changed: [/Users/user/Desktop/BTS/LearnJava/04_Operators/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.640
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/05_Control_Structures/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.641
+!MESSAGE Reloading core 05_Control_Structures
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.645
+!MESSAGE Added core 05_Control_Structures with classpath /Users/user/Desktop/BTS/LearnJava/05_Control_Structures/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.646
+!MESSAGE 05_Control_Structures Files changed: [/Users/user/Desktop/BTS/LearnJava/05_Control_Structures/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.676
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/05a_Greet/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.677
+!MESSAGE Reloading core 05a_Greet
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.678
+!MESSAGE Added core 05a_Greet with classpath /Users/user/Desktop/BTS/LearnJava/05a_Greet/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.679
+!MESSAGE 05a_Greet Files changed: [/Users/user/Desktop/BTS/LearnJava/05a_Greet/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.686
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/06_Variable_Scope/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.686
+!MESSAGE Reloading core 06_Variable_Scope
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.687
+!MESSAGE Added core 06_Variable_Scope with classpath /Users/user/Desktop/BTS/LearnJava/06_Variable_Scope/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.688
+!MESSAGE 06_Variable_Scope Files changed: [/Users/user/Desktop/BTS/LearnJava/06_Variable_Scope/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.694
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/07_Functions/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.695
+!MESSAGE Reloading core 07_Functions
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.696
+!MESSAGE Added core 07_Functions with classpath /Users/user/Desktop/BTS/LearnJava/07_Functions/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.696
+!MESSAGE 07_Functions Files changed: [/Users/user/Desktop/BTS/LearnJava/07_Functions/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.705
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/07a_IsPrime/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.706
+!MESSAGE Reloading core 07a_IsPrime
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.706
+!MESSAGE Added core 07a_IsPrime with classpath /Users/user/Desktop/BTS/LearnJava/07a_IsPrime/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.707
+!MESSAGE 07a_IsPrime Files changed: [/Users/user/Desktop/BTS/LearnJava/07a_IsPrime/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.712
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/07b_Trim/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.713
+!MESSAGE Reloading core 07b_Trim
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.714
+!MESSAGE Added core 07b_Trim with classpath /Users/user/Desktop/BTS/LearnJava/07b_Trim/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.714
+!MESSAGE 07b_Trim Files changed: [/Users/user/Desktop/BTS/LearnJava/07b_Trim/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.721
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/08_Scanner/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.722
+!MESSAGE Reloading core 08_Scanner
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.723
+!MESSAGE Added core 08_Scanner with classpath /Users/user/Desktop/BTS/LearnJava/08_Scanner/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.723
+!MESSAGE 08_Scanner Files changed: [/Users/user/Desktop/BTS/LearnJava/08_Scanner/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.731
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/09_Strings/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.732
+!MESSAGE Reloading core 09_Strings
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.733
+!MESSAGE Added core 09_Strings with classpath /Users/user/Desktop/BTS/LearnJava/09_Strings/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.733
+!MESSAGE 09_Strings Files changed: [/Users/user/Desktop/BTS/LearnJava/09_Strings/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.740
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/09a_CountAs/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.740
+!MESSAGE Reloading core 09a_CountAs
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.741
+!MESSAGE Added core 09a_CountAs with classpath /Users/user/Desktop/BTS/LearnJava/09a_CountAs/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.741
+!MESSAGE 09a_CountAs Files changed: [/Users/user/Desktop/BTS/LearnJava/09a_CountAs/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.801
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/09b_CountWords/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.806
+!MESSAGE Reloading core 09b_CountWords
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.807
+!MESSAGE Added core 09b_CountWords with classpath /Users/user/Desktop/BTS/LearnJava/09b_CountWords/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.808
+!MESSAGE 09b_CountWords Files changed: [/Users/user/Desktop/BTS/LearnJava/09b_CountWords/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.815
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/10_Arrays/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.817
+!MESSAGE Reloading core 10_Arrays
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.818
+!MESSAGE Added core 10_Arrays with classpath /Users/user/Desktop/BTS/LearnJava/10_Arrays/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.821
+!MESSAGE 10_Arrays Files changed: [/Users/user/Desktop/BTS/LearnJava/10_Arrays/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.830
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/11_For/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.831
+!MESSAGE Reloading core 11_For
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.832
+!MESSAGE Added core 11_For with classpath /Users/user/Desktop/BTS/LearnJava/11_For/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.833
+!MESSAGE 11_For Files changed: [/Users/user/Desktop/BTS/LearnJava/11_For/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.839
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/11a_CalculateAverage/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.840
+!MESSAGE Reloading core 11a_CalculateAverage
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.841
+!MESSAGE Added core 11a_CalculateAverage with classpath /Users/user/Desktop/BTS/LearnJava/11a_CalculateAverage/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.841
+!MESSAGE 11a_CalculateAverage Files changed: [/Users/user/Desktop/BTS/LearnJava/11a_CalculateAverage/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.847
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/12_Classes/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.848
+!MESSAGE Reloading core 12_Classes
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.849
+!MESSAGE Added core 12_Classes with classpath /Users/user/Desktop/BTS/LearnJava/12_Classes/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.851
+!MESSAGE 12_Classes Files changed: [/Users/user/Desktop/BTS/LearnJava/12_Classes/bin/Client.class, /Users/user/Desktop/BTS/LearnJava/12_Classes/bin/Point.class, /Users/user/Desktop/BTS/LearnJava/12_Classes/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.862
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/12a_Address/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.863
+!MESSAGE Reloading core 12a_Address
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.863
+!MESSAGE Added core 12a_Address with classpath /Users/user/Desktop/BTS/LearnJava/12a_Address/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.864
+!MESSAGE 12a_Address Files changed: [/Users/user/Desktop/BTS/LearnJava/12a_Address/bin/Address.class, /Users/user/Desktop/BTS/LearnJava/12a_Address/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.873
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/13_Methods/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.874
+!MESSAGE Reloading core 13_Methods
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.874
+!MESSAGE Added core 13_Methods with classpath /Users/user/Desktop/BTS/LearnJava/13_Methods/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.881
+!MESSAGE 13_Methods Files changed: [/Users/user/Desktop/BTS/LearnJava/13_Methods/bin/App.class, /Users/user/Desktop/BTS/LearnJava/13_Methods/bin/Point.class, /Users/user/Desktop/BTS/LearnJava/13_Methods/bin/Client.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.889
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/14_Constructors/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.890
+!MESSAGE Reloading core 14_Constructors
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.891
+!MESSAGE Added core 14_Constructors with classpath /Users/user/Desktop/BTS/LearnJava/14_Constructors/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.891
+!MESSAGE 14_Constructors Files changed: [/Users/user/Desktop/BTS/LearnJava/14_Constructors/bin/Client.class, /Users/user/Desktop/BTS/LearnJava/14_Constructors/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.898
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/15_Private/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.899
+!MESSAGE Reloading core 15_Private
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.899
+!MESSAGE Added core 15_Private with classpath /Users/user/Desktop/BTS/LearnJava/15_Private/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.900
+!MESSAGE 15_Private Files changed: [/Users/user/Desktop/BTS/LearnJava/15_Private/bin/App.class, /Users/user/Desktop/BTS/LearnJava/15_Private/bin/Client.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.910
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/15a_MovePoint/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.910
+!MESSAGE Reloading core 15a_MovePoint
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.911
+!MESSAGE Added core 15a_MovePoint with classpath /Users/user/Desktop/BTS/LearnJava/15a_MovePoint/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.912
+!MESSAGE 15a_MovePoint Files changed: [/Users/user/Desktop/BTS/LearnJava/15a_MovePoint/bin/Point.class, /Users/user/Desktop/BTS/LearnJava/15a_MovePoint/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.920
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/15b_Time/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.921
+!MESSAGE Reloading core 15b_Time
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.921
+!MESSAGE Added core 15b_Time with classpath /Users/user/Desktop/BTS/LearnJava/15b_Time/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.922
+!MESSAGE 15b_Time Files changed: [/Users/user/Desktop/BTS/LearnJava/15b_Time/bin/App.class, /Users/user/Desktop/BTS/LearnJava/15b_Time/bin/Time.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.928
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/15c_Time_Advanced/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.929
+!MESSAGE Reloading core 15c_Time_Advanced
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.929
+!MESSAGE Added core 15c_Time_Advanced with classpath /Users/user/Desktop/BTS/LearnJava/15c_Time_Advanced/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.930
+!MESSAGE 15c_Time_Advanced Files changed: [/Users/user/Desktop/BTS/LearnJava/15c_Time_Advanced/bin/Time.class, /Users/user/Desktop/BTS/LearnJava/15c_Time_Advanced/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.937
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/16_Math/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.938
+!MESSAGE Reloading core 16_Math
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.938
+!MESSAGE Added core 16_Math with classpath /Users/user/Desktop/BTS/LearnJava/16_Math/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.939
+!MESSAGE 16_Math Files changed: [/Users/user/Desktop/BTS/LearnJava/16_Math/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.945
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/16a_DistanceFunction/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.945
+!MESSAGE Reloading core 16a_DistanceFunction
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.946
+!MESSAGE Added core 16a_DistanceFunction with classpath /Users/user/Desktop/BTS/LearnJava/16a_DistanceFunction/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.947
+!MESSAGE 16a_DistanceFunction Files changed: [/Users/user/Desktop/BTS/LearnJava/16a_DistanceFunction/bin/Point.class, /Users/user/Desktop/BTS/LearnJava/16a_DistanceFunction/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.954
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/16b_DistanceMethod/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.954
+!MESSAGE Reloading core 16b_DistanceMethod
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.955
+!MESSAGE Added core 16b_DistanceMethod with classpath /Users/user/Desktop/BTS/LearnJava/16b_DistanceMethod/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.955
+!MESSAGE 16b_DistanceMethod Files changed: [/Users/user/Desktop/BTS/LearnJava/16b_DistanceMethod/bin/Point.class, /Users/user/Desktop/BTS/LearnJava/16b_DistanceMethod/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.964
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/17_Overloading/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.964
+!MESSAGE Reloading core 17_Overloading
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.965
+!MESSAGE Added core 17_Overloading with classpath /Users/user/Desktop/BTS/LearnJava/17_Overloading/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.965
+!MESSAGE 17_Overloading Files changed: [/Users/user/Desktop/BTS/LearnJava/17_Overloading/bin/App.class, /Users/user/Desktop/BTS/LearnJava/17_Overloading/bin/BankAccount.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.971
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/18_ArrayList/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.972
+!MESSAGE Reloading core 18_ArrayList
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.973
+!MESSAGE Added core 18_ArrayList with classpath /Users/user/Desktop/BTS/LearnJava/18_ArrayList/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.973
+!MESSAGE 18_ArrayList Files changed: [/Users/user/Desktop/BTS/LearnJava/18_ArrayList/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.983
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/18a_Statistics/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.983
+!MESSAGE Reloading core 18a_Statistics
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.984
+!MESSAGE Added core 18a_Statistics with classpath /Users/user/Desktop/BTS/LearnJava/18a_Statistics/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.984
+!MESSAGE 18a_Statistics Files changed: [/Users/user/Desktop/BTS/LearnJava/18a_Statistics/bin/App.class, /Users/user/Desktop/BTS/LearnJava/18a_Statistics/bin/DataSet.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.993
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/19_DateTime/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.994
+!MESSAGE Reloading core 19_DateTime
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.994
+!MESSAGE Added core 19_DateTime with classpath /Users/user/Desktop/BTS/LearnJava/19_DateTime/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:07.995
+!MESSAGE 19_DateTime Files changed: [/Users/user/Desktop/BTS/LearnJava/19_DateTime/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:08.007
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/20_Static/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:08.008
+!MESSAGE Reloading core 20_Static
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:08.009
+!MESSAGE Added core 20_Static with classpath /Users/user/Desktop/BTS/LearnJava/20_Static/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:08.009
+!MESSAGE 20_Static Files changed: [/Users/user/Desktop/BTS/LearnJava/20_Static/bin/Point.class, /Users/user/Desktop/BTS/LearnJava/20_Static/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:08.017
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/20a_Queue/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:08.017
+!MESSAGE Reloading core 20a_Queue
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:08.018
+!MESSAGE Added core 20a_Queue with classpath /Users/user/Desktop/BTS/LearnJava/20a_Queue/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:08.018
+!MESSAGE 20a_Queue Files changed: [/Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/App.class, /Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Queue.class, /Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Order.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:39.887
+!MESSAGE 20a_Queue Files changed: [/Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Queue.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:01:51.496
+!MESSAGE 20a_Queue Files changed: [/Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/App.class, /Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Queue.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:02:17.308
+!MESSAGE 20a_Queue Files changed: [/Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/App.class, /Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Queue.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:08:39.655
+!MESSAGE 20a_Queue Files changed: [/Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Order.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:08:53.022
+!MESSAGE 20a_Queue Files changed: [/Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Order.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:09:18.538
+!MESSAGE 20a_Queue Files changed: [/Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Order.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:14:13.143
+!MESSAGE 20a_Queue Files changed: [/Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 08:14:18.841
+!MESSAGE 20a_Queue Files changed: [/Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Order.class]
+!SESSION 2015-11-13 09:20:42.752 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/user/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data /Users/user/Desktop/BTS/LearnJava -product org.eclipse.epp.package.jee.product -keyring /Users/user/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2015-11-13 09:20:55.523
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:21:02.576
+!MESSAGE Beans loaded: [org.springframework.context.annotation.internalConfigurationAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.springframework.context.annotation.internalCommonAnnotationProcessor, infinitestConfig, org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor, resultCollectorBean, coreLifecycleObserver, classFileChangeProcessor, cleanEventProcessor, coreUpdateNotifier, saveDetector, failureMediator, infinitestActivationController, markerClearingRunnable, markerClearingObserver, markerPlacer, problemMarkerRegistry, resourceLookupAdapter, slowMarkerRegistry, preferenceChangeHandler, slowTestObserver, swtEventQueue, testResultAggregator, visualStatusPresenter, coreFactory, eclipseWorkspace, infinitestCoreRegistry, javaProjectSet, workspaceResourceFinder, workspace, sourceContainer]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.393
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/01_HelloWorld/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.449
+!MESSAGE Reloading core 01_HelloWorld
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.499
+!MESSAGE Added core 01_HelloWorld with classpath /Users/user/Desktop/BTS/LearnJava/01_HelloWorld/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest959359866.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.501
+!MESSAGE 01_HelloWorld Files changed: [/Users/user/Desktop/BTS/LearnJava/01_HelloWorld/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.702
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/15a_MovePoint/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.704
+!MESSAGE Reloading core 15a_MovePoint
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.705
+!MESSAGE Added core 15a_MovePoint with classpath /Users/user/Desktop/BTS/LearnJava/15a_MovePoint/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest959359866.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.705
+!MESSAGE 15a_MovePoint Files changed: [/Users/user/Desktop/BTS/LearnJava/15a_MovePoint/bin/Point.class, /Users/user/Desktop/BTS/LearnJava/15a_MovePoint/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.726
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/16a_DistanceFunction/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.728
+!MESSAGE Reloading core 16a_DistanceFunction
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.729
+!MESSAGE Added core 16a_DistanceFunction with classpath /Users/user/Desktop/BTS/LearnJava/16a_DistanceFunction/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest959359866.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.729
+!MESSAGE 16a_DistanceFunction Files changed: [/Users/user/Desktop/BTS/LearnJava/16a_DistanceFunction/bin/Point.class, /Users/user/Desktop/BTS/LearnJava/16a_DistanceFunction/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.771
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/16b_DistanceMethod/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.772
+!MESSAGE Reloading core 16b_DistanceMethod
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.772
+!MESSAGE Added core 16b_DistanceMethod with classpath /Users/user/Desktop/BTS/LearnJava/16b_DistanceMethod/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest959359866.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 09:29:59.773
+!MESSAGE 16b_DistanceMethod Files changed: [/Users/user/Desktop/BTS/LearnJava/16b_DistanceMethod/bin/Point.class, /Users/user/Desktop/BTS/LearnJava/16b_DistanceMethod/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.052
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/17_Overloading/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.131
+!MESSAGE Reloading core 17_Overloading
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.132
+!MESSAGE Added core 17_Overloading with classpath /Users/user/Desktop/BTS/LearnJava/17_Overloading/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest959359866.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.132
+!MESSAGE 17_Overloading Files changed: [/Users/user/Desktop/BTS/LearnJava/17_Overloading/bin/App.class, /Users/user/Desktop/BTS/LearnJava/17_Overloading/bin/BankAccount.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.160
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/18_ArrayList/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.161
+!MESSAGE Reloading core 18_ArrayList
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.162
+!MESSAGE Added core 18_ArrayList with classpath /Users/user/Desktop/BTS/LearnJava/18_ArrayList/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest959359866.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.162
+!MESSAGE 18_ArrayList Files changed: [/Users/user/Desktop/BTS/LearnJava/18_ArrayList/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.175
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/18a_Statistics/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.176
+!MESSAGE Reloading core 18a_Statistics
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.176
+!MESSAGE Added core 18a_Statistics with classpath /Users/user/Desktop/BTS/LearnJava/18a_Statistics/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest959359866.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.177
+!MESSAGE 18a_Statistics Files changed: [/Users/user/Desktop/BTS/LearnJava/18a_Statistics/bin/App.class, /Users/user/Desktop/BTS/LearnJava/18a_Statistics/bin/DataSet.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.186
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/19_DateTime/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.186
+!MESSAGE Reloading core 19_DateTime
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.187
+!MESSAGE Added core 19_DateTime with classpath /Users/user/Desktop/BTS/LearnJava/19_DateTime/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest959359866.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.188
+!MESSAGE 19_DateTime Files changed: [/Users/user/Desktop/BTS/LearnJava/19_DateTime/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.199
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/20_Static/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.200
+!MESSAGE Reloading core 20_Static
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.200
+!MESSAGE Added core 20_Static with classpath /Users/user/Desktop/BTS/LearnJava/20_Static/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest959359866.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.201
+!MESSAGE 20_Static Files changed: [/Users/user/Desktop/BTS/LearnJava/20_Static/bin/Point.class, /Users/user/Desktop/BTS/LearnJava/20_Static/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.209
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/Point/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.209
+!MESSAGE Reloading core Point
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.211
+!MESSAGE Added core Point with classpath /Users/user/Desktop/BTS/LearnJava/Point/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest959359866.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:35:58.239
+!MESSAGE Point Files changed: [/Users/user/Desktop/BTS/LearnJava/Point/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:36:22.629
+!MESSAGE Files removed. Reloading Point
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:36:22.629
+!MESSAGE Reloading core Point
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:36:33.745
+!MESSAGE Point Files changed: [/Users/user/Desktop/BTS/LearnJava/Point/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 10:41:07.592
+!MESSAGE Point Files changed: [/Users/user/Desktop/BTS/LearnJava/Point/bin/Point.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 11:46:02.677
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/20a_Queue/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 11:46:02.703
+!MESSAGE Reloading core 20a_Queue
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 11:46:02.705
+!MESSAGE Added core 20a_Queue with classpath /Users/user/Desktop/BTS/LearnJava/20a_Queue/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest959359866.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 11:46:02.719
+!MESSAGE 20a_Queue Files changed: [/Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/App.class, /Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Queue.class, /Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Order.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-13 11:47:41.037
+!MESSAGE 20a_Queue Files changed: [/Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Queue.class]
+!SESSION 2015-11-16 00:48:44.727 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/user/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data /Users/user/Desktop/BTS/LearnJava -product org.eclipse.epp.package.jee.product -keyring /Users/user/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2015-11-16 00:48:57.528
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-16 00:49:06.822
+!MESSAGE Beans loaded: [org.springframework.context.annotation.internalConfigurationAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.springframework.context.annotation.internalCommonAnnotationProcessor, infinitestConfig, org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor, resultCollectorBean, coreLifecycleObserver, classFileChangeProcessor, cleanEventProcessor, coreUpdateNotifier, saveDetector, failureMediator, infinitestActivationController, markerClearingRunnable, markerClearingObserver, markerPlacer, problemMarkerRegistry, resourceLookupAdapter, slowMarkerRegistry, preferenceChangeHandler, slowTestObserver, swtEventQueue, testResultAggregator, visualStatusPresenter, coreFactory, eclipseWorkspace, infinitestCoreRegistry, javaProjectSet, workspaceResourceFinder, workspace, sourceContainer]
+
+!ENTRY org.eclipse.ui 2 2 2015-11-16 00:49:09.859
+!MESSAGE Invalid preference category path: org.jboss.tools.common.model.ui.MainPreferencePage (bundle: org.jboss.tools.runtime.ui, page: org.jboss.tools.runtime.preferences.RuntimePreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2015-11-16 00:49:09.860
+!MESSAGE Invalid preference category path: org.jboss.tools.common.model.ui.MainPreferencePage (bundle: org.jboss.tools.usage, page: org.jboss.tools.usage.analytics.preferences.UsageAnalyticsPreferencePage)

@@ -38,23 +38,24 @@ public class App {
         queue.add(order1);
         System.out.println("Enqueued Order with Id" + orderId);
         //Creates an Order with ID=2 and the stated date
-        Order pedido2=new Order("10/10/2010"); 
+        Order order2=new Order("10/10/2010"); 
 
         
-        System.out.print("Creado pedido con ID=" + pedido2.getId()); //da el ID del pedido
-        System.out.println(" y fecha=" + pedido2.getDate()); //da la fecha en la que hizo el pedido
+        System.out.print("Created order ID=" + order2.getId()); 
+        System.out.println(" and Date=" + order2.getDate()); 
 
-        queue.add(pedido2); //lo pone en la cola, detrás de p2
-        System.out.println("Encolado pedido " + pedido2.getId());
+        queue.add(order2); 
+        System.out.println("Queued order " + order2.getId());
 
-        boolean estaVacia = queue.getEstaVacia();
-        Order pedido=queue.Siguiente(); //da el primer pedido de la cola, quitándolo entonces de la cola
-        System.out.println("Desencolado pedido " + pedido.getId());
+        boolean isEmpty = queue.isEmpty();
+        //Returns the first order in the queue and removes the Order from the queue
+        Order order=queue.next(); 
+        System.out.println("Unqueued order " + order.getId());
 
-        Order pedidoEspera = queue.GetPrimerPedido();
-        System.out.println("Ahora el primer pedido en espera en la cola es el pedido con ID=" + pedidoEspera.getId());
+        Order orderWaiting = queue.getFirstOrder();
+        System.out.println("Now first order es ID=" + orderWaiting.getId());
 
-        int longCola = queue.getLength(); //indica la longitud de la cola
+        int queuelength = queue.getLength(); 
 	}
 
 }

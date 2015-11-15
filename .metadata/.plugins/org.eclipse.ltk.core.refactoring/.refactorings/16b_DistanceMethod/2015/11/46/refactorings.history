@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;distance&apos; from expression &apos;Math.sqrt(Math.pow(bx - ax,2) + Math.pow(by - ay,2))&apos;&#x0A;- Original project: &apos;16b_DistanceMethod&apos;&#x0A;- Variable name: &apos;distance&apos;&#x0A;- Destination method: &apos;Point.distanceTo()&apos;&#x0A;- Variable expression: &apos;Math.sqrt(Math.pow(bx - ax,2) + Math.pow(by - ay,2))&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;distance&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;{Point.java" name="distance" replace="true" selection="319 47" stamp="1447403398438" version="1.0"/>
+</session>

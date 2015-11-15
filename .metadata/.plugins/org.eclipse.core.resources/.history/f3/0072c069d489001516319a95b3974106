@@ -1,0 +1,32 @@
+﻿import java.util.ArrayList;
+
+class Queue {
+	private ArrayList<Order> _queue = new ArrayList<Order>();
+
+	public void add(Order p) {
+		this._queue.add(p);
+	}
+
+	public Order getFirstOrder() {
+		if (this._queue.size() == 0)
+			return null;
+		return (Order) this._queue.get(0);
+	}
+
+	public Order Siguiente() // Desencolar()
+	{
+		if (this._queue.size() == 0)
+			return null;
+		Order pedido = getFirstOrder();
+		this._queue.remove(pedido);
+		return pedido;
+	}
+
+	public int getLength() {
+		return this._queue.size();
+	}
+
+	public boolean getEstaVacia() {
+		return (this._queue.size() == 0);
+	}
+}
