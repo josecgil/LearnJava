@@ -632,3 +632,67 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.ui 2 2 2015-11-16 00:49:09.860
 !MESSAGE Invalid preference category path: org.jboss.tools.common.model.ui.MainPreferencePage (bundle: org.jboss.tools.usage, page: org.jboss.tools.usage.analytics.preferences.UsageAnalyticsPreferencePage)
+!SESSION 2015-11-17 17:38:31.886 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/user/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -data /Users/user/Desktop/BTS/LearnJava -product org.eclipse.epp.package.jee.product -keyring /Users/user/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2015-11-17 17:39:05.590
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:39:26.666
+!MESSAGE Beans loaded: [org.springframework.context.annotation.internalConfigurationAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.springframework.context.annotation.internalCommonAnnotationProcessor, infinitestConfig, org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor, resultCollectorBean, coreLifecycleObserver, classFileChangeProcessor, cleanEventProcessor, coreUpdateNotifier, saveDetector, failureMediator, infinitestActivationController, markerClearingRunnable, markerClearingObserver, markerPlacer, problemMarkerRegistry, resourceLookupAdapter, slowMarkerRegistry, preferenceChangeHandler, slowTestObserver, swtEventQueue, testResultAggregator, visualStatusPresenter, coreFactory, eclipseWorkspace, infinitestCoreRegistry, javaProjectSet, workspaceResourceFinder, workspace, sourceContainer]
+
+!ENTRY org.eclipse.ui 2 2 2015-11-17 17:39:36.341
+!MESSAGE Invalid preference category path: org.jboss.tools.common.model.ui.MainPreferencePage (bundle: org.jboss.tools.runtime.ui, page: org.jboss.tools.runtime.preferences.RuntimePreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2015-11-17 17:39:36.424
+!MESSAGE Invalid preference category path: org.jboss.tools.common.model.ui.MainPreferencePage (bundle: org.jboss.tools.usage, page: org.jboss.tools.usage.analytics.preferences.UsageAnalyticsPreferencePage)
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:40:16.066
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/01_HelloWorld/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:40:16.784
+!MESSAGE Reloading core 01_HelloWorld
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:40:16.792
+!MESSAGE Added core 01_HelloWorld with classpath /Users/user/Desktop/BTS/LearnJava/01_HelloWorld/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest1526772806.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:40:16.794
+!MESSAGE 01_HelloWorld Files changed: [/Users/user/Desktop/BTS/LearnJava/01_HelloWorld/bin/App.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:40:17.564
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/20a_Queue/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:40:17.565
+!MESSAGE Reloading core 20a_Queue
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:40:17.566
+!MESSAGE Added core 20a_Queue with classpath /Users/user/Desktop/BTS/LearnJava/20a_Queue/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest1526772806.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:40:17.567
+!MESSAGE 20a_Queue Files changed: [/Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/App.class, /Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Queue.class, /Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Order.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:40:17.733
+!MESSAGE Filter file /Users/user/Desktop/BTS/LearnJava/21_Sort/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:40:17.756
+!MESSAGE Reloading core 21_Sort
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:40:17.834
+!MESSAGE Added core 21_Sort with classpath /Users/user/Desktop/BTS/LearnJava/21_Sort/bin:/var/folders/h1/rb758g9d7939gy6mrpjsgddm0000gn/T/infinitest1526772806.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:40:17.852
+!MESSAGE 20a_Queue Files changed: [/Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/App.class, /Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Queue.class, /Users/user/Desktop/BTS/LearnJava/20a_Queue/bin/Order.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:40:25.702
+!MESSAGE 21_Sort Files changed: [/Users/user/Desktop/BTS/LearnJava/21_Sort/bin/App.class, /Users/user/Desktop/BTS/LearnJava/21_Sort/bin/Client.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:50:22.061
+!MESSAGE 21_Sort Files changed: [/Users/user/Desktop/BTS/LearnJava/21_Sort/bin/Client.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2015-11-17 17:51:02.181
+!MESSAGE 21_Sort Files changed: [/Users/user/Desktop/BTS/LearnJava/21_Sort/bin/App.class]

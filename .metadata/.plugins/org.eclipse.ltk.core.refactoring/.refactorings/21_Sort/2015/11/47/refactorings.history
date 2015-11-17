@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;simpleDateFormat&apos; in &apos;Client.toString()&apos; to &apos;dateFormat&apos;&#x0A;- Original project: &apos;21_Sort&apos;&#x0A;- Original element: &apos;Client.toString().simpleDateFormat&apos;&#x0A;- Renamed element: &apos;simpleDateFormat&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;simpleDateFormat&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Client.java[Client~toString@simpleDateFormat!901!969!918!933!QSimpleDateFormat;!0!false" name="dateFormat" references="true" stamp="1447778986791" version="1.0"/>
+</session>
